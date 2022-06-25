@@ -1,0 +1,221 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'CLK'
+Slack : -7.089
+TNS   : -4584.730
+
+Type  : Slow 1200mV 85C Model Setup 'Layer2:inst1|Layer1:inst26|Layer0:inst189|inst17'
+Slack : -2.100
+TNS   : -25.704
+
+Type  : Slow 1200mV 85C Model Setup 'Layer1:inst13|Layer0:inst189|inst17'
+Slack : -2.005
+TNS   : -28.166
+
+Type  : Slow 1200mV 85C Model Setup 'Layer0:inst8|inst17'
+Slack : -1.748
+TNS   : -22.940
+
+Type  : Slow 1200mV 85C Model Setup 'Layer1:inst13|KeyboardInterface:inst167|Debouncer:inst40|inst1'
+Slack : -0.615
+TNS   : -0.773
+
+Type  : Slow 1200mV 85C Model Setup 'Layer2:inst1|Layer1:inst26|KeyboardInterface:inst167|Debouncer:inst40|inst1'
+Slack : -0.549
+TNS   : -0.886
+
+Type  : Slow 1200mV 85C Model Hold 'CLK'
+Slack : -0.068
+TNS   : -0.113
+
+Type  : Slow 1200mV 85C Model Hold 'Layer1:inst13|KeyboardInterface:inst167|Debouncer:inst40|inst1'
+Slack : 0.381
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'Layer2:inst1|Layer1:inst26|KeyboardInterface:inst167|Debouncer:inst40|inst1'
+Slack : 0.382
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'Layer0:inst8|inst17'
+Slack : 0.392
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'Layer2:inst1|Layer1:inst26|Layer0:inst189|inst17'
+Slack : 0.429
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'Layer1:inst13|Layer0:inst189|inst17'
+Slack : 0.578
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'CLK'
+Slack : -3.000
+TNS   : -778.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'Layer0:inst8|inst17'
+Slack : -1.000
+TNS   : -20.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'Layer1:inst13|Layer0:inst189|inst17'
+Slack : -1.000
+TNS   : -20.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'Layer2:inst1|Layer1:inst26|Layer0:inst189|inst17'
+Slack : -1.000
+TNS   : -20.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'Layer1:inst13|KeyboardInterface:inst167|Debouncer:inst40|inst1'
+Slack : -1.000
+TNS   : -19.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'Layer2:inst1|Layer1:inst26|KeyboardInterface:inst167|Debouncer:inst40|inst1'
+Slack : -1.000
+TNS   : -19.000
+
+Type  : Slow 1200mV 0C Model Setup 'CLK'
+Slack : -6.311
+TNS   : -4055.479
+
+Type  : Slow 1200mV 0C Model Setup 'Layer2:inst1|Layer1:inst26|Layer0:inst189|inst17'
+Slack : -1.836
+TNS   : -21.744
+
+Type  : Slow 1200mV 0C Model Setup 'Layer1:inst13|Layer0:inst189|inst17'
+Slack : -1.774
+TNS   : -24.299
+
+Type  : Slow 1200mV 0C Model Setup 'Layer0:inst8|inst17'
+Slack : -1.497
+TNS   : -19.282
+
+Type  : Slow 1200mV 0C Model Setup 'Layer1:inst13|KeyboardInterface:inst167|Debouncer:inst40|inst1'
+Slack : -0.469
+TNS   : -0.469
+
+Type  : Slow 1200mV 0C Model Setup 'Layer2:inst1|Layer1:inst26|KeyboardInterface:inst167|Debouncer:inst40|inst1'
+Slack : -0.391
+TNS   : -0.391
+
+Type  : Slow 1200mV 0C Model Hold 'CLK'
+Slack : -0.108
+TNS   : -0.227
+
+Type  : Slow 1200mV 0C Model Hold 'Layer2:inst1|Layer1:inst26|KeyboardInterface:inst167|Debouncer:inst40|inst1'
+Slack : 0.344
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'Layer1:inst13|KeyboardInterface:inst167|Debouncer:inst40|inst1'
+Slack : 0.346
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'Layer0:inst8|inst17'
+Slack : 0.348
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'Layer2:inst1|Layer1:inst26|Layer0:inst189|inst17'
+Slack : 0.438
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'Layer1:inst13|Layer0:inst189|inst17'
+Slack : 0.521
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'CLK'
+Slack : -3.000
+TNS   : -778.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'Layer0:inst8|inst17'
+Slack : -1.000
+TNS   : -20.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'Layer1:inst13|Layer0:inst189|inst17'
+Slack : -1.000
+TNS   : -20.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'Layer2:inst1|Layer1:inst26|Layer0:inst189|inst17'
+Slack : -1.000
+TNS   : -20.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'Layer1:inst13|KeyboardInterface:inst167|Debouncer:inst40|inst1'
+Slack : -1.000
+TNS   : -19.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'Layer2:inst1|Layer1:inst26|KeyboardInterface:inst167|Debouncer:inst40|inst1'
+Slack : -1.000
+TNS   : -19.000
+
+Type  : Fast 1200mV 0C Model Setup 'CLK'
+Slack : -3.764
+TNS   : -2335.707
+
+Type  : Fast 1200mV 0C Model Setup 'Layer2:inst1|Layer1:inst26|Layer0:inst189|inst17'
+Slack : -0.753
+TNS   : -6.752
+
+Type  : Fast 1200mV 0C Model Setup 'Layer1:inst13|Layer0:inst189|inst17'
+Slack : -0.736
+TNS   : -7.935
+
+Type  : Fast 1200mV 0C Model Setup 'Layer0:inst8|inst17'
+Slack : -0.574
+TNS   : -5.334
+
+Type  : Fast 1200mV 0C Model Setup 'Layer1:inst13|KeyboardInterface:inst167|Debouncer:inst40|inst1'
+Slack : 0.107
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'Layer2:inst1|Layer1:inst26|KeyboardInterface:inst167|Debouncer:inst40|inst1'
+Slack : 0.146
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'CLK'
+Slack : -0.060
+TNS   : -0.089
+
+Type  : Fast 1200mV 0C Model Hold 'Layer1:inst13|KeyboardInterface:inst167|Debouncer:inst40|inst1'
+Slack : 0.197
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'Layer2:inst1|Layer1:inst26|KeyboardInterface:inst167|Debouncer:inst40|inst1'
+Slack : 0.198
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'Layer0:inst8|inst17'
+Slack : 0.206
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'Layer2:inst1|Layer1:inst26|Layer0:inst189|inst17'
+Slack : 0.234
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'Layer1:inst13|Layer0:inst189|inst17'
+Slack : 0.310
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'CLK'
+Slack : -3.000
+TNS   : -839.957
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'Layer0:inst8|inst17'
+Slack : -1.000
+TNS   : -20.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'Layer1:inst13|Layer0:inst189|inst17'
+Slack : -1.000
+TNS   : -20.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'Layer2:inst1|Layer1:inst26|Layer0:inst189|inst17'
+Slack : -1.000
+TNS   : -20.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'Layer1:inst13|KeyboardInterface:inst167|Debouncer:inst40|inst1'
+Slack : -1.000
+TNS   : -19.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'Layer2:inst1|Layer1:inst26|KeyboardInterface:inst167|Debouncer:inst40|inst1'
+Slack : -1.000
+TNS   : -19.000
+
+------------------------------------------------------------

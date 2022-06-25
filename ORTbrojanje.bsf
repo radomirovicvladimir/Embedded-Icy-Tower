@@ -1,0 +1,162 @@
+/*
+WARNING: Do NOT edit the input and output ports in this file in a text
+editor if you plan to continue editing the block that represents it in
+the Block Editor! File corruption is VERY likely to occur.
+*/
+/*
+Copyright (C) 1991-2013 Altera Corporation
+Your use of Altera Corporation's design tools, logic functions 
+and other software and tools, and its AMPP partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Altera Program License 
+Subscription Agreement, Altera MegaCore Function License 
+Agreement, or other applicable license agreement, including, 
+without limitation, that your use is for the sole purpose of 
+programming logic devices manufactured by Altera and sold by 
+Altera or its authorized distributors.  Please refer to the 
+applicable agreement for further details.
+*/
+(header "symbol" (version "1.2"))
+(symbol
+	(rect 16 16 200 336)
+	(text "ORTbrojanje" (rect 5 0 74 14)(font "Arial" (font_size 8)))
+	(text "inst" (rect 8 304 25 316)(font "Arial" ))
+	(port
+		(pt 0 32)
+		(input)
+		(text "CLK" (rect 0 0 23 14)(font "Arial" (font_size 8)))
+		(text "CLK" (rect 21 27 44 41)(font "Arial" (font_size 8)))
+		(line (pt 0 32)(pt 16 32))
+	)
+	(port
+		(pt 0 48)
+		(input)
+		(text "PS2_CLK" (rect 0 0 53 14)(font "Arial" (font_size 8)))
+		(text "PS2_CLK" (rect 21 43 74 57)(font "Arial" (font_size 8)))
+		(line (pt 0 48)(pt 16 48))
+	)
+	(port
+		(pt 0 64)
+		(input)
+		(text "PS2_DATA" (rect 0 0 63 14)(font "Arial" (font_size 8)))
+		(text "PS2_DATA" (rect 21 59 84 73)(font "Arial" (font_size 8)))
+		(line (pt 0 64)(pt 16 64))
+	)
+	(port
+		(pt 184 32)
+		(output)
+		(text "JediniceA" (rect 0 0 55 14)(font "Arial" (font_size 8)))
+		(text "JediniceA" (rect 108 27 163 41)(font "Arial" (font_size 8)))
+		(line (pt 184 32)(pt 168 32))
+	)
+	(port
+		(pt 184 48)
+		(output)
+		(text "JediniceB" (rect 0 0 54 14)(font "Arial" (font_size 8)))
+		(text "JediniceB" (rect 109 43 163 57)(font "Arial" (font_size 8)))
+		(line (pt 184 48)(pt 168 48))
+	)
+	(port
+		(pt 184 64)
+		(output)
+		(text "JediniceC" (rect 0 0 54 14)(font "Arial" (font_size 8)))
+		(text "JediniceC" (rect 109 59 163 73)(font "Arial" (font_size 8)))
+		(line (pt 184 64)(pt 168 64))
+	)
+	(port
+		(pt 184 80)
+		(output)
+		(text "JediniceD" (rect 0 0 54 14)(font "Arial" (font_size 8)))
+		(text "JediniceD" (rect 109 75 163 89)(font "Arial" (font_size 8)))
+		(line (pt 184 80)(pt 168 80))
+	)
+	(port
+		(pt 184 96)
+		(output)
+		(text "JediniceE" (rect 0 0 53 14)(font "Arial" (font_size 8)))
+		(text "JediniceE" (rect 110 91 163 105)(font "Arial" (font_size 8)))
+		(line (pt 184 96)(pt 168 96))
+	)
+	(port
+		(pt 184 112)
+		(output)
+		(text "JediniceF" (rect 0 0 53 14)(font "Arial" (font_size 8)))
+		(text "JediniceF" (rect 110 107 163 121)(font "Arial" (font_size 8)))
+		(line (pt 184 112)(pt 168 112))
+	)
+	(port
+		(pt 184 128)
+		(output)
+		(text "JediniceG" (rect 0 0 55 14)(font "Arial" (font_size 8)))
+		(text "JediniceG" (rect 108 123 163 137)(font "Arial" (font_size 8)))
+		(line (pt 184 128)(pt 168 128))
+	)
+	(port
+		(pt 184 144)
+		(output)
+		(text "JediniceDP" (rect 0 0 61 14)(font "Arial" (font_size 8)))
+		(text "JediniceDP" (rect 102 139 163 153)(font "Arial" (font_size 8)))
+		(line (pt 184 144)(pt 168 144))
+	)
+	(port
+		(pt 184 160)
+		(output)
+		(text "DeseticeA" (rect 0 0 59 14)(font "Arial" (font_size 8)))
+		(text "DeseticeA" (rect 104 155 163 169)(font "Arial" (font_size 8)))
+		(line (pt 184 160)(pt 168 160))
+	)
+	(port
+		(pt 184 176)
+		(output)
+		(text "DeseticeB" (rect 0 0 57 14)(font "Arial" (font_size 8)))
+		(text "DeseticeB" (rect 106 171 163 185)(font "Arial" (font_size 8)))
+		(line (pt 184 176)(pt 168 176))
+	)
+	(port
+		(pt 184 192)
+		(output)
+		(text "DeseticeC" (rect 0 0 57 14)(font "Arial" (font_size 8)))
+		(text "DeseticeC" (rect 106 187 163 201)(font "Arial" (font_size 8)))
+		(line (pt 184 192)(pt 168 192))
+	)
+	(port
+		(pt 184 208)
+		(output)
+		(text "DeseticeD" (rect 0 0 57 14)(font "Arial" (font_size 8)))
+		(text "DeseticeD" (rect 106 203 163 217)(font "Arial" (font_size 8)))
+		(line (pt 184 208)(pt 168 208))
+	)
+	(port
+		(pt 184 224)
+		(output)
+		(text "DeseticeE" (rect 0 0 56 14)(font "Arial" (font_size 8)))
+		(text "DeseticeE" (rect 107 219 163 233)(font "Arial" (font_size 8)))
+		(line (pt 184 224)(pt 168 224))
+	)
+	(port
+		(pt 184 240)
+		(output)
+		(text "DeseticeF" (rect 0 0 56 14)(font "Arial" (font_size 8)))
+		(text "DeseticeF" (rect 107 235 163 249)(font "Arial" (font_size 8)))
+		(line (pt 184 240)(pt 168 240))
+	)
+	(port
+		(pt 184 256)
+		(output)
+		(text "DeseticeG" (rect 0 0 59 14)(font "Arial" (font_size 8)))
+		(text "DeseticeG" (rect 104 251 163 265)(font "Arial" (font_size 8)))
+		(line (pt 184 256)(pt 168 256))
+	)
+	(port
+		(pt 184 272)
+		(output)
+		(text "DeseticeDP" (rect 0 0 64 14)(font "Arial" (font_size 8)))
+		(text "DeseticeDP" (rect 99 267 163 281)(font "Arial" (font_size 8)))
+		(line (pt 184 272)(pt 168 272))
+	)
+	(drawing
+		(rectangle (rect 16 16 168 304))
+	)
+)
